@@ -7,3 +7,8 @@ to run:
 - clone this directory
 - cd into this directory
 - call 'snakemake --cores 1'
+
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katieemelianova/binder/master)
+
